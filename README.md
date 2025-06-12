@@ -12,4 +12,8 @@ Things I enjoy other than coding:
 
 I've really enjoyed Web Development and Python. I also plan to venture into the lower level languages in due time.
 
-## Want to reach out to collaborate, chat, or ask a question? Email me at daraghbuckley@hotmail.com
+### Some of my projects:
+
+[Here's a full-stack web application using Flask.](https://github.com/DaraghsCode/WebDevII)
+
+### Want to reach out to collaborate, chat, or ask a question? Email me at daraghbuckley@hotmail.com
