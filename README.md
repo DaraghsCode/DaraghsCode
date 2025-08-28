@@ -16,4 +16,6 @@ I've really enjoyed Web Development and Python. I also plan to venture into the 
 
 [Here's a full-stack web application using Flask.](https://github.com/DaraghsCode/WebDevII)
 
+[Here are some web games I'm working on to practice javascript.](https://github.com/DaraghsCode/RatRaceII)
+
 ### Want to reach out to collaborate, chat, or ask a question? Email me at daraghbuckley@hotmail.com
