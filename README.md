@@ -14,8 +14,12 @@ I've really enjoyed Web Development and Python. I also plan to venture into the 
 
 ### Some of my projects:
 
-[Here's a full-stack web application using Flask.](https://github.com/DaraghsCode/WebDevII)
+[A Finanical Analysis Dashboard using data processed by Python (pandas) and visualised in Tableau.](https://github.com/DaraghsCode/Financial-Analysis-Dashboard)<br>
 
-[Here are some web games I'm working on to practice javascript.](https://github.com/DaraghsCode/RatRaceII)
+[A full-stack web application (social media platform) using FSQL& Flask.](https://github.com/DaraghsCode/WebDevII)
+
+[Some web games I'm working on to practice JavaScript.](https://github.com/DaraghsCode/RatRaceII)
+
+[A file I use to learn fundamental algorithms in C.](https://github.com/DaraghsCode/learningAlgorithms) 
 
 ### Want to reach out to collaborate, chat, or ask a question? Email me at daraghbuckley@hotmail.com
