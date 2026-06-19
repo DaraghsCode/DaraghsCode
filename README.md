@@ -22,4 +22,7 @@ I've really enjoyed Web Development and Python. I also plan to venture into the 
 
 [A file I use to learn fundamental algorithms in C.](https://github.com/DaraghsCode/learningAlgorithms) 
 
+### What I'm Currently working on:
+I've been working on a customer/sales analysis of Olist ($1.5 billion E-commerce platform) in SQL that will be displayed in Tableau.
+
 ### Want to reach out to collaborate, chat, or ask a question? Email me at daraghbuckley@hotmail.com
