@@ -16,6 +16,8 @@ I've really enjoyed Web Development and Python. I also plan to venture into the 
 
 [A Finanical Analysis Dashboard using data processed by Python (pandas) and visualised in Tableau.](https://github.com/DaraghsCode/Financial-Analysis-Dashboard)<br>
 
+[An E-Commerce Sales & Customer Analysis driven by SQL. ](https://github.com/DaraghsCode/SQL_E-Commerce_Analysis)
+
 [A full-stack web application (social media platform) using SQL & Flask.](https://github.com/DaraghsCode/WebDevII)
 
 [Some web games I'm working on to practice JavaScript.](https://github.com/DaraghsCode/RatRaceII)
@@ -23,6 +25,6 @@ I've really enjoyed Web Development and Python. I also plan to venture into the 
 [A file I use to learn fundamental algorithms in C.](https://github.com/DaraghsCode/learningAlgorithms) 
 
 ### What I'm Currently working on:
-I've been working on a customer/sales analysis of Olist ($1.5 billion E-commerce platform) in SQL that will be displayed in Tableau.
+I'm working on an API I'm writing from scratch!
 
 ### Want to reach out to collaborate, chat, or ask a question? Email me at daraghbuckley@hotmail.com
