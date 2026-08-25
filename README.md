@@ -18,6 +18,8 @@ I've really enjoyed Web Development and Python. I also plan to venture into the 
 
 [An E-Commerce Sales & Customer Analysis driven by SQL. ](https://github.com/DaraghsCode/SQL_E-Commerce_Analysis)
 
+[An Inventory Reconciliation Agent written in Python. ](https://github.com/DaraghsCode/Inventory-Reconciliation-Agent)
+
 [A full-stack web application (social media platform) using SQL & Flask.](https://github.com/DaraghsCode/WebDevII)
 
 [Some web games I'm working on to practice JavaScript.](https://github.com/DaraghsCode/RatRaceII)
